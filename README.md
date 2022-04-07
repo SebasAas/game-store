@@ -11,6 +11,7 @@
 <b>Game Store</b> is a game store page that keeps you updated with the lastest games in the industry
 
 ## Preview
+https://user-images.githubusercontent.com/24654062/162115376-baa0d666-a592-4348-bb4e-0cfe6a521365.mp4
 
 
 ### Prototype
